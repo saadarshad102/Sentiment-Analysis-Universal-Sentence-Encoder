@@ -8,7 +8,6 @@ Sentiment Analysis using  Google's Universal Sentence Encoder
 git clone https://github.com/saadarshad102/Sentiment-Analysis-Universal-Sentence-Encoder.git
 ```
 
-* Open Sentiment-Analysis-Universal-Sentence-Encoder folder
-
 ## Usage
-Just run the Notebook
+* Open Sentiment-Analysis-Universal-Sentence-Encoder folder
+* Just run the Notebook
